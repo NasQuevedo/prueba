@@ -1,2 +1,2 @@
-# suplosBackEnd
-Prueba suplos desarrollador backend
+# clonar repositorio
+git clone https://github.com/NasQuevedo/prueba.git
